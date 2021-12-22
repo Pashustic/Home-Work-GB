@@ -1,0 +1,15 @@
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\bin\Debug\net6.0\Task7.exe
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\bin\Debug\net6.0\Task7.deps.json
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\bin\Debug\net6.0\Task7.dll
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\bin\Debug\net6.0\ref\Task7.dll
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\bin\Debug\net6.0\Task7.pdb
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.csproj.AssemblyReference.cache
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.dll
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\ref\Task7.dll
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.pdb
+O:\HomeWorkGB\Lesson2\HomeWork\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache

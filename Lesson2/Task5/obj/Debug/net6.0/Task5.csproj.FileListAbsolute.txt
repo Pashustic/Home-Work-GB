@@ -1,0 +1,15 @@
+O:\GeekBrains\Lesson2\HomeWork\Task5\bin\Debug\net6.0\Task5.exe
+O:\GeekBrains\Lesson2\HomeWork\Task5\bin\Debug\net6.0\Task5.deps.json
+O:\GeekBrains\Lesson2\HomeWork\Task5\bin\Debug\net6.0\Task5.runtimeconfig.json
+O:\GeekBrains\Lesson2\HomeWork\Task5\bin\Debug\net6.0\Task5.dll
+O:\GeekBrains\Lesson2\HomeWork\Task5\bin\Debug\net6.0\ref\Task5.dll
+O:\GeekBrains\Lesson2\HomeWork\Task5\bin\Debug\net6.0\Task5.pdb
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.csproj.AssemblyReference.cache
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.dll
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\ref\Task5.dll
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.pdb
+O:\GeekBrains\Lesson2\HomeWork\Task5\obj\Debug\net6.0\Task5.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+O:\HomeWorkGB\Lesson3\Task1\bin\Debug\net6.0\Task1.exe
+O:\HomeWorkGB\Lesson3\Task1\bin\Debug\net6.0\Task1.deps.json
+O:\HomeWorkGB\Lesson3\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+O:\HomeWorkGB\Lesson3\Task1\bin\Debug\net6.0\Task1.dll
+O:\HomeWorkGB\Lesson3\Task1\bin\Debug\net6.0\ref\Task1.dll
+O:\HomeWorkGB\Lesson3\Task1\bin\Debug\net6.0\Task1.pdb
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.dll
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\ref\Task1.dll
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.pdb
+O:\HomeWorkGB\Lesson3\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
